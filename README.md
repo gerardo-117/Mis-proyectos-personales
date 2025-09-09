@@ -11,6 +11,5 @@ Aquí encontrarás una colección de mis proyectos en **HTML y CSS**, desde mini
 
 ## 📫 Contacto
 - Email: gerardoalonsomartinez246@gmail.com
-- GitHub: [Mi perfil](https://github.com/TU-USUARIO)
 
 > “Aprendiendo a crear, un proyecto a la vez.” 💻✨
